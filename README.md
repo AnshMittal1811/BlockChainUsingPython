@@ -1,4 +1,3 @@
 # BlockChainUsingUnity
 
-This repository contains the files that I coded while doing the Udemy course named Build a Blockchain & Cryptocurrency using Python. It can be found on the link:
-https://www.udemy.com/course/build-a-blockchain-cryptocurrency-using-python/
+This is a personal BlockChain for the understanding of the subject for the fulfillment of Internship at IIT Delhi. This has been coded in Python. This was done while completing a Udemy course on the same for which the link is given: https://www.udemy.com/course/build-a-blockchain-cryptocurrency-using-python/
